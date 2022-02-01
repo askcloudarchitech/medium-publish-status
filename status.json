@@ -1,1 +1,45 @@
-[{"url":"https://askcloudarchitech.com/posts/tutorials/homebrew-setup-and-usage/","id":"sdahfjk7890678asdfhuil","publishTimestamp":"2022-02-01 00:57:07.892575 -0500 EST m=+3.502913876","mediumResponse":{"id":"142c15ff913d","title":"Homebrew Setup","authorId":"1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4","tags":["time-saving","starting-tools","computer-setup","package-manager"],"url":"https://medium.com/@askcloudarchitech/homebrew-setup-142c15ff913d","canonicalUrl":"https://askcloudarchitech.com/posts/tutorials/homebrew-setup-and-usage/","publishStatus":"","license":"","licenseUrl":"https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"}},{"url":"https://askcloudarchitech.com/posts/self-improvement/multitasking-is-impossible-multiplexing/","id":"ashdfjalsdhfjaklsdhfjkaslhdfjk","publishTimestamp":"2022-02-01 01:12:14.109592 -0500 EST m=+2.827180043","mediumResponse":{"id":"2280066e65ca","title":"Why Multitasking is Impossible and How To Become Really Good at Faking It","authorId":"1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4","tags":["work-stress","team-efficiency","multiplexing","work-ninja","task-management"],"url":"https://medium.com/@askcloudarchitech/2280066e65ca","canonicalUrl":"https://askcloudarchitech.com/posts/self-improvement/multitasking-is-impossible-multiplexing/","publishStatus":"draft","license":"","licenseUrl":"https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"}}]
+[
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/homebrew-setup-and-usage/",
+    "id": "sdahfjk7890678asdfhuil",
+    "publishTimestamp": "2022-02-01 00:57:07.892575 -0500 EST m=+3.502913876",
+    "mediumResponse": {
+      "id": "142c15ff913d",
+      "title": "Homebrew Setup",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "time-saving",
+        "starting-tools",
+        "computer-setup",
+        "package-manager"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/homebrew-setup-142c15ff913d",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/homebrew-setup-and-usage/",
+      "publishStatus": "",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/self-improvement/multitasking-is-impossible-multiplexing/",
+    "id": "ashdfjalsdhfjaklsdhfjkaslhdfjk",
+    "publishTimestamp": "2022-02-01 01:12:14.109592 -0500 EST m=+2.827180043",
+    "mediumResponse": {
+      "id": "2280066e65ca",
+      "title": "Why Multitasking is Impossible and How To Become Really Good at Faking It",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "work-stress",
+        "team-efficiency",
+        "multiplexing",
+        "work-ninja",
+        "task-management"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/2280066e65ca",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/self-improvement/multitasking-is-impossible-multiplexing/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
+  }
+]
