@@ -41,5 +41,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/auto-generate-post-payload-medium-com/",
+    "id": "ashdjfklasdf978asdfjklasdfy78sadbfjkasd678",
+    "publishTimestamp": "2022-02-11 18:12:28.478972 -0500 EST m=+5.809122376",
+    "mediumResponse": {
+      "id": "934291182467",
+      "title": "Auto Generate a Medium.com REST API Payload to Syndicate Posts with Hugo",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "hugo",
+        "rest",
+        "golang",
+        "content-syndication",
+        "reusable-content"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/934291182467",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/auto-generate-post-payload-medium-com/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
