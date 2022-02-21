@@ -63,5 +63,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/create-homebrew-tap-golang-goreleaser-cobra-cli/",
+    "id": "62283b7b1af6b2d659f02ec4d11f0dd7",
+    "publishTimestamp": "2022-02-21 01:08:23.929967 -0500 EST m=+5.159303167",
+    "mediumResponse": {
+      "id": "4c92cdeb9dfb",
+      "title": "Create a Custom CLI Tool and Distribute with HomeBrew Using Goreleaser and Github Actions",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "homebrew",
+        "homebrew-tap",
+        "go-cobra",
+        "goreleaser",
+        "github-actions"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/4c92cdeb9dfb",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/create-homebrew-tap-golang-goreleaser-cobra-cli/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
