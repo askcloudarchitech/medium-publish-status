@@ -85,5 +85,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/single-command-syndicate-hugo-post-medium-com/",
+    "id": "1645907948222",
+    "publishTimestamp": "2022-03-05 20:00:10.988743 -0500 EST m=+5.016867126",
+    "mediumResponse": {
+      "id": "3fd760ce09",
+      "title": "Introducing Medium-auto-post | Syndicate your Hugo Content to Medium.com",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "medium-rest-api",
+        "hugo",
+        "go-hugo",
+        "content-syndication",
+        "time-saving-tools"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/3fd760ce09",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/single-command-syndicate-hugo-post-medium-com/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
