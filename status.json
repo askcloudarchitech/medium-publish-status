@@ -107,5 +107,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/netlify-post-deploy-function-golang-tutorial/",
+    "id": "1647095194201",
+    "publishTimestamp": "2022-03-15 05:43:24.834748262 +0000 UTC m=+2.222832517",
+    "mediumResponse": {
+      "id": "ba2a5cac7ec0",
+      "title": "How to Write a Netlify Post-Deploy Function in Golang",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "serverless-functions",
+        "lambda",
+        "golang-development",
+        "netlify-function",
+        "netlify"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/ba2a5cac7ec0",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/netlify-post-deploy-function-golang-tutorial/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
