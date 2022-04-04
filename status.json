@@ -193,5 +193,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/concepts/devops-not-job-title/",
+    "id": "1649031303502",
+    "publishTimestamp": "2022-04-04 00:28:32.464651482 +0000 UTC m=+1.452453396",
+    "mediumResponse": {
+      "id": "491e67837570",
+      "title": "DevOps is NOT a Job Title | Why development teams practice DevOps",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "development",
+        "devops",
+        "continuous-delivery",
+        "operations",
+        "company-culture"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/491e67837570",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/concepts/devops-not-job-title/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
