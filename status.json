@@ -236,5 +236,24 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/local-kubernetes-startup-script/",
+    "id": "1650723882016",
+    "publishTimestamp": "2022-04-23 16:57:02.83754114 +0000 UTC m=+5.456991921",
+    "mediumResponse": {
+      "id": "7fbc59618ac4",
+      "title": "I Made a Local Kubernetes Startup Script So You Don't Have To",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "kubernetes",
+        "kind"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/7fbc59618ac4",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/local-kubernetes-startup-script/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
