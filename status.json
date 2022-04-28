@@ -255,5 +255,26 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/concepts/how-to-write-a-useful-readme/",
+    "id": "1650837057854",
+    "publishTimestamp": "2022-04-28 05:10:23.592145765 +0000 UTC m=+1.666671446",
+    "mediumResponse": {
+      "id": "989d38f17202",
+      "title": "Your README is a Dumpster Fire - It's Time to Fix That",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "best-practices",
+        "readme",
+        "development",
+        "documentation"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/989d38f17202",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/concepts/how-to-write-a-useful-readme/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
