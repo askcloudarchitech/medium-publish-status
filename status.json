@@ -297,5 +297,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/self-improvement/developer-code-workflow-checklist/",
+    "id": "1650838258655",
+    "publishTimestamp": "2022-06-04 17:02:57.948451999 +0000 UTC m=+1.562480620",
+    "mediumResponse": {
+      "id": "32e6e147441f",
+      "title": "Always Do These Eight Things Before Pushing a Commit",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "learn-to-code",
+        "software-engineering",
+        "coding-best-practices",
+        "web-development",
+        "software-development"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/32e6e147441f",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/self-improvement/developer-code-workflow-checklist/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
