@@ -319,5 +319,26 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/open-source-security-dependency-review/",
+    "id": "1655094677759",
+    "publishTimestamp": "2022-06-13 04:48:05.715219215 +0000 UTC m=+1.501834122",
+    "mediumResponse": {
+      "id": "b6151249530f",
+      "title": "Is That Open Source Project Safe To Use? - Here’s How To Know",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "secure-web-development",
+        "open-source-security",
+        "open-source",
+        "open-source-dependencies"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/b6151249530f",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/open-source-security-dependency-review/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
