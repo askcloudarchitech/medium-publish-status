@@ -384,5 +384,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tech-terms/what-is-serverless-computing/",
+    "id": "1659999057854",
+    "publishTimestamp": "2022-08-08 23:15:05.334941162 +0000 UTC m=+1.628421031",
+    "mediumResponse": {
+      "id": "8fc5ad44518a",
+      "title": "What is Serverless Computing?",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "aws-lambda",
+        "what-is-serverless",
+        "serverless",
+        "serverless-functions",
+        "serverless-stack"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/8fc5ad44518a",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tech-terms/what-is-serverless-computing/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
