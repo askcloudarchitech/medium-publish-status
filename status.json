@@ -428,5 +428,26 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tech-terms/test-driven-development/",
+    "id": "1660796798988",
+    "publishTimestamp": "2022-08-18 04:38:18.059168139 +0000 UTC m=+1.376934072",
+    "mediumResponse": {
+      "id": "6a9141f90e4b",
+      "title": "What Is Test Driven Development (TDD)?",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "tech-terms-for-dummies",
+        "software-development",
+        "tdd",
+        "test-driven-development"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/6a9141f90e4b",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tech-terms/test-driven-development/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
