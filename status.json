@@ -471,5 +471,26 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tech-terms/event-driven-architecture/",
+    "id": "55ba0ffd0883c481c3922dbe2dd878cc",
+    "publishTimestamp": "2022-09-11 18:48:49.457835891 +0000 UTC m=+2.005854331",
+    "mediumResponse": {
+      "id": "944df892838b",
+      "title": "Event-driven Architecture - Everything You Need to Know",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "cloud-architecture",
+        "event-driven-architecture",
+        "pub-sub",
+        "microservices"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/944df892838b",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tech-terms/event-driven-architecture/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
