@@ -536,5 +536,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tech-terms/what-is-cdn/",
+    "id": "51f65d5e509a8526cab6f2e669f119e9",
+    "publishTimestamp": "2022-09-24 14:57:13.522569582 +0000 UTC m=+1.752431722",
+    "mediumResponse": {
+      "id": "78f3ff0e347",
+      "title": "What Is a CDN and How Do They Work? - Content Delivery Networks Explained",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "tech-terms-explained",
+        "what-is-cdn",
+        "content-delivery-network",
+        "what-is-a-cdn",
+        "cdn"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/78f3ff0e347",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tech-terms/what-is-cdn/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
