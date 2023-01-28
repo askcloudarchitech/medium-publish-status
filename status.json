@@ -601,5 +601,24 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/gaining-open-source-contributors-easy/",
+    "id": "207a330852c38e1f359c44d87fbbbe85",
+    "publishTimestamp": "2023-01-28 18:27:37.391746985 +0000 UTC m=+1.717633130",
+    "mediumResponse": {
+      "id": "42783b9e3637",
+      "title": "Is Gaining Open Source Contributors Really This Easy?",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "open",
+        "humor"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/42783b9e3637",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/gaining-open-source-contributors-easy/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
