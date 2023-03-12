@@ -620,5 +620,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/create-kubernetes-cluster-from-old-computers/",
+    "id": "2023-03-11T18:31:42.966Z",
+    "publishTimestamp": "2023-03-12 18:55:27.44757387 +0000 UTC m=+1.881127893",
+    "mediumResponse": {
+      "id": "129d17aa8704",
+      "title": "How To Turn Your Old Hardware Into A Kubernetes Cluster",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "tutorial",
+        "microk8s",
+        "cluster",
+        "kubernetes",
+        "hardware"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/129d17aa8704",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/create-kubernetes-cluster-from-old-computers/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
