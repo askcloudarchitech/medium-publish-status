@@ -642,5 +642,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tutorials/add-nfs-shared-storage-microk8s-cluster/",
+    "id": "2023-03-12T23:23:04.723Z",
+    "publishTimestamp": "2023-03-13 04:24:33.836474703 +0000 UTC m=+179.488716056",
+    "mediumResponse": {
+      "id": "c37302411b0d",
+      "title": "Step-by-Step: Adding Shared Storage to a Kubernetes Cluster",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "fn",
+        "kubernetes-cluster",
+        "nas",
+        "kubernetes",
+        "nfs-provisioner"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/c37302411b0d",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tutorials/add-nfs-shared-storage-microk8s-cluster/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
