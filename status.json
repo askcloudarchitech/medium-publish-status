@@ -686,5 +686,26 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/tech-terms/edge-fog-compute-edge-compute-explained/",
+    "id": "2023-03-14T22:46:34.881Z",
+    "publishTimestamp": "2023-03-14 23:04:32.045357297 +0000 UTC m=+1.865232805",
+    "mediumResponse": {
+      "id": "df5b4433ac08",
+      "title": "What even is \"the edge\"? Fog Compute / Edge Compute Explained",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "vercel",
+        "edge-computing",
+        "edge-networking",
+        "cloudflare"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/df5b4433ac08",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/tech-terms/edge-fog-compute-edge-compute-explained/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
