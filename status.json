@@ -808,5 +808,27 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://askcloudarchitech.com/posts/concepts/2023-10-05-the-tech-pendulum-monolith-vs-micro-service/",
+    "id": "2023-10-05T21:47:40.798Z",
+    "publishTimestamp": "2023-10-29 01:15:05.633704755 +0000 UTC m=+1.603557550",
+    "mediumResponse": {
+      "id": "1038439bea14",
+      "title": "The Tech Philosophy Dilemma: All-in-One vs. Best-of-Breed",
+      "authorId": "1701216ab44a2b1e415da5118942752b871f62c876cd977c8b51c20a5835d0bb4",
+      "tags": [
+        "best-tech-practices",
+        "salesforce",
+        "debate-tech",
+        "technology-choice",
+        "crm"
+      ],
+      "url": "https://medium.com/@askcloudarchitech/1038439bea14",
+      "canonicalUrl": "https://askcloudarchitech.com/posts/concepts/2023-10-05-the-tech-pendulum-monolith-vs-micro-service/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
